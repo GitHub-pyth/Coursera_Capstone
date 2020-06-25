@@ -1,0 +1,151 @@
+Borough,ID,Name,Neighbourhood
+Bronx,4c0448d9310fc9b6bf1dc761,Curry Spot,Woodlawn
+Bronx,4c194631838020a13e78e561,Melanies Roti Bar And Grill,Parkchester
+Bronx,4c04544df423a593ac83d116,Cumin Indian Cuisine,Spuyten Duyvil
+Bronx,551b7f75498e86c00a0ed2e1,Hungry Bird,Concourse
+Bronx,4c194631838020a13e78e561,Melanies Roti Bar And Grill,Unionport
+Brooklyn,4b5a4dc8f964a520a2bb28e3,Taj Mahal,Bay Ridge
+Brooklyn,545835a1498e820edc6f636f,Bombay Grill,Bay Ridge
+Brooklyn,4af0d31bf964a5207ddf21e3,Pak Nasheman,Brighton Beach
+Brooklyn,52213c4211d295d4c57a607c,Ashoka Grill,Flatbush
+Brooklyn,564d283d498e6e851df79d87,Great Indian Curry,Flatbush
+Brooklyn,512a9ea9e4b004fb8eeb84e5,Silver Krust,East Flatbush
+Brooklyn,4db0f4371e729fcc56497f20,Mashallah,Kensington
+Brooklyn,4b718914f964a520c04b2de3,Madina Restaurant and Sweets,Kensington
+Brooklyn,592e1dae345cbe0fc77cf6c9,Diwan Grill,Prospect Heights
+Brooklyn,57596dad498e732300496b23,Dosa Royale,Fort Greene
+Brooklyn,568d3902498e619efcbc3f58,Spice & Grill,Clinton Hill
+Brooklyn,57596dad498e732300496b23,Dosa Royale,Clinton Hill
+Brooklyn,543870ec498ec64de510608d,Masala Grill,Boerum Hill
+Brooklyn,4bb93b70cf2fc9b6fe64a002,Gandhi Fine Indian Cuisine,Prospect Lefferts Gardens
+Brooklyn,4afdf78bf964a520862c22e3,King of Tandoor,Prospect Lefferts Gardens
+Brooklyn,4ec80587d3e3e131f2e72835,Bayleaf,Prospect Lefferts Gardens
+Brooklyn,5539753f498edbace4746b67,Tandoori Masala,Ocean Hill
+Brooklyn,4f6cae2ee4b0d4a5afcef5c0,Delhi Heights,Ocean Hill
+Brooklyn,519ff6c8498e1300ddcbd45c,Anarkali Indian Cuisine,Prospect Park South
+Brooklyn,4db0f4371e729fcc56497f20,Mashallah,Prospect Park South
+Brooklyn,545835a1498e820edc6f636f,Bombay Grill,Fort Hamilton
+Manhattan,4ae7876ef964a5201eac21e3,Kismat Indian Restaurant,Washington Heights
+Manhattan,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,Hamilton Heights
+Manhattan,5914ff32b23dfa207eca38de,Mumbai Masala,Hamilton Heights
+Manhattan,529d382a11d2dd5ef107e641,Chapati House - NYC,Manhattanville
+Manhattan,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,Manhattanville
+Manhattan,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,Central Harlem
+Manhattan,56d87f3d498ee215abee5724,Delhi Masala,Central Harlem
+Manhattan,519fe6f5498e30595d370c44,Bawarchi,East Harlem
+Manhattan,5272ca4511d22488f6895caf,Drunken Munkey,Yorkville
+Manhattan,5b0c8e2d2f97ec002c67a428,Ashoka Fine Dine,Yorkville
+Manhattan,56ed855a498ef3bb022352c3,Mughlai Indian Cuisine,Yorkville
+Manhattan,4fe4fb50c2eee335e4fea69d,Moti Mahal Delux,Roosevelt Island
+Manhattan,4b0dec08f964a520ae5223e3,Alachi Masala,Upper West Side
+Manhattan,42489a80f964a5208b201fe3,Swagat,Upper West Side
+Manhattan,591890f43abcaf1ddca66e85,Ashoka,Upper West Side
+Manhattan,5953e40462420b044e8989f4,indikitch,Midtown
+Manhattan,5b5a2c9e66f3cd002ca0aab5,The Drunken Munkey,Greenwich Village
+Manhattan,4bbb9dbded7776b0e1ad3e51,Tamarind TriBeCa,Tribeca
+Manhattan,5803c0db38fa71491b748a7d,Taco Mahal,West Village
+Manhattan,5b5a2c9e66f3cd002ca0aab5,The Drunken Munkey,West Village
+Manhattan,49c5ad0af964a5201b571fe3,Roti Roll,Manhattan Valley
+Manhattan,424de080f964a520ae201fe3,Manhattan Valley,Manhattan Valley
+Manhattan,538ba1f2498e279098e4210a,Awadh,Manhattan Valley
+Manhattan,49c5ad0af964a5201b571fe3,Roti Roll,Morningside Heights
+Manhattan,4a70a75bf964a52016d81fe3,Bhatti Indian Grill,Gramercy
+Manhattan,57f7cbbe498edf8f07c7ba83,Sahib,Gramercy
+Manhattan,43d537d0f964a520402e1fe3,Vatan,Gramercy
+Manhattan,4fa5ee76c2eea504a46a9022,Desi Galli - Lexington Avenue,Gramercy
+Queens,4aa56c81f964a5204e4820e3,Seva Indian Cuisine,Astoria
+Queens,5d8d9c5e0a2ffc0008f28855,The Gully,Astoria
+Queens,4afdcf29f964a520162b22e3,Rajbhog Sweets,Woodside
+Queens,4b998d3ff964a520fc8235e3,Maharaja Sweets & Snacks,Woodside
+Queens,4c7060e734443704ca0e245f,Kababish,Woodside
+Queens,5da4fbf091a08400078be19d,Angel Indian Restaurant,Woodside
+Queens,4b189424f964a52043d423e3,Dera,Woodside
+Queens,49ebb18ff964a52016671fe3,Delhi Heights,Woodside
+Queens,3fd66200f964a52009f11ee3,Jackson Diner,Woodside
+Queens,4e334b7bb0fb17f64f81a8b2,Premium Sweets & Restaurant,Woodside
+Queens,527d9cbc498edf0db10bde6b,Samudra,Jackson Heights
+Queens,4b998d3ff964a520fc8235e3,Maharaja Sweets & Snacks,Jackson Heights
+Queens,4afdcf29f964a520162b22e3,Rajbhog Sweets,Jackson Heights
+Queens,5da4fbf091a08400078be19d,Angel Indian Restaurant,Jackson Heights
+Queens,49ebb18ff964a52016671fe3,Delhi Heights,Jackson Heights
+Queens,3fd66200f964a52009f11ee3,Jackson Diner,Jackson Heights
+Queens,527d9cbc498edf0db10bde6b,Samudra,Elmhurst
+Queens,5da4fbf091a08400078be19d,Angel Indian Restaurant,Elmhurst
+Queens,4a4e780ff964a52083ae1fe3,Tangra Masala,Elmhurst
+Queens,49ebb18ff964a52016671fe3,Delhi Heights,Elmhurst
+Queens,5782c9ce498edde587f5aa14,Tikka Indian Grill,Kew Gardens
+Queens,4bbe78bfba9776b070cefdc8,Mehak Mughlai Cuisine,Kew Gardens
+Queens,4b522029f964a520f26927e3,Sohna Punjab,Richmond Hill
+Queens,5782c9ce498edde587f5aa14,Tikka Indian Grill,Richmond Hill
+Queens,4f1b77d7e4b044fd359e6d21,India Cafe,Richmond Hill
+Queens,4adbaef0f964a520ff2921e3,Punjabi Kabab House,Richmond Hill
+Queens,4babc24ef964a5200ac73ae3,Royal India Palace,Richmond Hill
+Queens,4bb2bc48a32876b02e0b01fe,Tandoori Hut,Richmond Hill
+Queens,57d9e9a1498e545076560fef,Punjabi Diner,Richmond Hill
+Queens,50a287a7e4b0033f830f06db,Raj's Indian Kitchen,Long Island City
+Queens,5b931ea69d7468002c3b1382,Adda,Long Island City
+Queens,4b1b341bf964a5208af923e3,Five Star Banquet,Long Island City
+Queens,5b931ea69d7468002c3b1382,Adda,Sunnyside
+Queens,50e1c9708aca7ff2b3e50353,Nepalese Indian Restaurant,Ridgewood
+Queens,5625af69498ebbc62b61a382,Aaheli Restaurant,Rego Park
+Queens,572d7c21498e098658a0edd7,Punjabi kabab and gyro,Ozone Park
+Queens,4f1f4996e4b01ff351a7a50c,Ayna Agra Indian Restaurant,Bayside
+Queens,539a4ff0498e79c6745baba9,Masala Box,Bayside
+Queens,539e27b0498e2eba582085ee,masalabox,Bayside
+Queens,4b787c49f964a5209cd12ee3,Santoor Indian Restaurant,Glen Oaks
+Queens,4c0e256ab1b676b06589e186,Sohna Punjab,Glen Oaks
+Queens,4b9030abf964a520397b33e3,Taste of Cochin,Glen Oaks
+Queens,4df0f39dd4c04d0392c853ea,Sagar Chinese,Glen Oaks
+Queens,4b96926df964a520abd534e3,Khyber Indian Restaurant,Kew Gardens Hills
+Queens,4be334312fc7d13a7a81083a,Taj Mahal Restaurant & Party Hall,Briarwood
+Queens,4bad49a0f964a52041423be3,Annam Brahma,Briarwood
+Queens,4cc08b0900d83704ed474b5c,Sybil's Bakery,Briarwood
+Queens,4bad49a0f964a52041423be3,Annam Brahma,Jamaica Center
+Queens,4c434b2bd691c9b6ef8f8f0a,Sagar Restaurant,Jamaica Center
+Queens,4cc08b0900d83704ed474b5c,Sybil's Bakery,Jamaica Center
+Queens,562035d9498e2abb4137c2c7,Yaar Indian Restaurant,Steinway
+Queens,4e4e3e22bd4101d0d7a5c2d1,Kerala Kitchen,Floral Park
+Queens,527ffc0811d2d329d5e49abd,Jackson Diner,Floral Park
+Queens,4b787c49f964a5209cd12ee3,Santoor Indian Restaurant,Floral Park
+Queens,4b647b56f964a520c4b62ae3,Usha Foods & Usha Sweets,Floral Park
+Queens,4c0c01e0bbc676b00d6b4cd5,Mumbai Xpress,Floral Park
+Queens,4c76ff35a5676dcb72671721,Flavor Of India,Floral Park
+Queens,4cc642ed306e224b5bf2a76c,Shahi Darbar,Floral Park
+Queens,55d68c1b498ecf05fa196fe1,Namaste Restaurant and Cafe,Floral Park
+Queens,5d06c43cc03635002cc463f2,Honest,Floral Park
+Queens,4df0f39dd4c04d0392c853ea,Sagar Chinese,Floral Park
+Queens,51d84192498ea979a3c4f13d,Sunshine Grill & Restaurant,Floral Park
+Queens,4e6bfe1c7d8b2c711b17bbe5,Surya sweets and snacks,Floral Park
+Queens,4f580c1be4b0bdfd0e7e8102,Rajdhani Indian Restaurant,Holliswood
+Queens,4c434b2bd691c9b6ef8f8f0a,Sagar Restaurant,Jamaica Estates
+Queens,4c66f1ac8e9120a1b266d964,Sunshine Grill and Restaurant,Jamaica Estates
+Queens,5623f6f9498e5a44a08bfae8,Boishakhi Restaurant,Ravenswood
+Queens,4dc0aaedae606fe8b71c226b,Saffron Cuisine/ Bar,Bellaire
+Staten Island,4b9be038f964a520393036e3,Dosa Garden,New Brighton
+Staten Island,57a27a37498e68b1928c8c66,Spice Rack,Castleton Corners
+Staten Island,4be74a502468c928505a0243,Taste Of India II,New Dorp
+Staten Island,4b9be038f964a520393036e3,Dosa Garden,Tompkinsville
+Brooklyn,519ff6c8498e1300ddcbd45c,Anarkali Indian Cuisine,Ditmas Park
+Brooklyn,4db0f4371e729fcc56497f20,Mashallah,Ditmas Park
+Brooklyn,564d283d498e6e851df79d87,Great Indian Curry,Ditmas Park
+Staten Island,4b65f2e3f964a5206e0a2be3,Al-Humza,Park Hill
+Staten Island,4be74a502468c928505a0243,Taste Of India II,Grant City
+Manhattan,5272ca4511d22488f6895caf,Drunken Munkey,Carnegie Hill
+Manhattan,5b0c8e2d2f97ec002c67a428,Ashoka Fine Dine,Carnegie Hill
+Manhattan,4bbb9dbded7776b0e1ad3e51,Tamarind TriBeCa,Civic Center
+Queens,4bad49a0f964a52041423be3,Annam Brahma,Jamaica Hills
+Queens,4c434b2bd691c9b6ef8f8f0a,Sagar Restaurant,Jamaica Hills
+Queens,4cc08b0900d83704ed474b5c,Sybil's Bakery,Jamaica Hills
+Queens,4cb4a712db32f04dcb5adf4d,Moon Tikka,Jamaica Hills
+Queens,4c2e8df2213c2d7f94742f5d,Tikka Grill,Astoria Heights
+Bronx,551b7f75498e86c00a0ed2e1,Hungry Bird,Concourse Village
+Manhattan,4a63bfb4f964a520b3c51fe3,Chola Eclectic Indian Cuisine,Sutton Place
+Manhattan,4fe4fb50c2eee335e4fea69d,Moti Mahal Delux,Sutton Place
+Manhattan,4a5b660df964a52015bb1fe3,Amma,Turtle Bay
+Queens,4c48da9f3013a59356c5f0e1,Saffron Garden,Sunnyside Gardens
+Queens,5b931ea69d7468002c3b1382,Adda,Blissville
+Brooklyn,5539753f498edbace4746b67,Tandoori Masala,Broadway Junction
+Brooklyn,564d283d498e6e851df79d87,Great Indian Curry,Erasmus
+Queens,50a287a7e4b0033f830f06db,Raj's Indian Kitchen,Queensbridge
+Queens,4b1b341bf964a5208af923e3,Five Star Banquet,Queensbridge
+Staten Island,4b65f2e3f964a5206e0a2be3,Al-Humza,Fox Hills
